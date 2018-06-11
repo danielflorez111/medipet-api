@@ -1,8 +1,8 @@
-# rest-api
+# medipet-api
 
 ## Description
 
-rest-api
+medipet-api
 
 ## Installation
 
