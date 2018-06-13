@@ -1,7 +1,5 @@
 # medipet-api
 
-Hola mundo :)
-
 ## Description
 
 medipet-api
